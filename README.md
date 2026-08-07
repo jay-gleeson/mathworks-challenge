@@ -35,6 +35,9 @@ The optimized design was:
 
 The results indicate that the best panel shape for the fixed area is a square panel.
 
+## Figure
+![Plot](media/figure.png)
+
 ## Requirements
 
 - MATLAB R2026a or compatible version
